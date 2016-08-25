@@ -1,5 +1,8 @@
 package com.ctrip.common.lock;
 
+/**
+ * Distributed lock base on Zookeeper.
+ */
 public class DistributedLock {
 
     /**
